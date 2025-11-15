@@ -1,6 +1,4 @@
-"""
-短视频数据分析看板 - 启动文件
-运行命令: streamlit run run_dashboard.py"""
+"""短视频数据分析看板 - 启动文件运行命令: streamlit run run_dashboard.py"""
 
 import os
 import sys
